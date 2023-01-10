@@ -14,10 +14,10 @@
   <a href="http://intertabgenerador2022.rf.gd/?i=1" >Generador de Codigo (public)</a>
  </h4>
  <h4 align="left">
-  <a href="[github.com/Brandonxcu87](https://github.com/Brandonxcu87)" >El mas valiente (private)</a>
+  <a href="https://github.com/Brandonxcu87" >El mas valiente (private)</a>
  </h4>
  <h4  align="left">
-  <a href="[github.com/Brandonxcu87](https://github.com/Brandonxcu87)" >Recursos Humanos COVAO (private) </a>
+  <a href="https://github.com/Brandonxcu87" >Recursos Humanos COVAO (private) </a>
  </h4>
 
  <h3  align="center" >My social Networks:</h3>
